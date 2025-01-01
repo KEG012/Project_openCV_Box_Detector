@@ -1,2 +1,2 @@
-# openCV_project
-openCV project with python and C++
+# Box Detect and Measure Size and OCR
+이 프로젝트는 박스가 감지 영역안에 들어오면 박스의 색을 판단하여 구별할 박스를 찾아냅니다. 박스를 찾으면 박스의 크기를 측정하고 사이즈를 구분합니다. 박스에 글씨가 써 잇다면 글씨를 인식하여 화면에 표시해줍니다.
