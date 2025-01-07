@@ -38,6 +38,7 @@
 - 다른 박스가 들어올 시 rectangle 생성하지 않음
 - 박스의 크기를 측정하여 이를 화면에 표시함
 <p align="center">
+<img src="./box_detect_image_and_video/HSV Range.PNG">
 <img src="./box_detect_image_and_video/hsv roi image.PNG">
 <img src="./box_detect_image_and_video/capture image.PNG">
 </p>
